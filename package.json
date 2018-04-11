@@ -1,0 +1,16 @@
+{
+  "name": "stockexchangehiringassignment",
+  "version": "1.0.0",
+  "description": "Implementation of the given task for the stock exchange application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Oguma email: joshua.oguma@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33"
+  }
+}

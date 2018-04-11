@@ -1,0 +1,163 @@
+BudgetCheck: {C2, Passed},{C3, Passed}
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C3, Passed},{C1, Failed},{C2, Failed}
+BudgetCheck: {C3, Passed}
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+Winner = C2
+
+BidCheck: {C2, Passed},{C3, Failed}
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+
+BudgetCheck: {C3, Passed},{C2, Failed}
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C2, Passed},{C3, Passed}
+BidCheck: {C2, Passed},{C3, Failed}
+Winner = C2
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C3, Passed},{C2, Failed}
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C3, Passed},{C2, Failed}
+
+BaseTargeting: {C2, Passed},{C3, Passed},{C1, Failed}
+BudgetCheck: {C3, Passed},{C2, Failed}
+
+BaseTargeting: {C2, Passed},{C1, Failed},{C3, Failed}
+BudgetCheck: {C2, Failed}
+
+BaseTargeting: {C2, Passed},{C1, Failed},{C3, Failed}
+BudgetCheck: {C2, Failed}
+
+BaseTargeting: {C2, Passed},{C1, Failed},{C3, Failed}
+BudgetCheck: {C2, Failed}
+
+BaseTargeting: {C2, Passed},{C1, Failed},{C3, Failed}
+BudgetCheck: {C2, Failed}
+
+BaseTargeting: {C2, Passed},{C1, Failed},{C3, Failed}
+BudgetCheck: {C2, Failed}
+
+BaseTargeting: {C1, Passed},{C2, Passed},{C3, Failed}
+
+BudgetCheck: {C1, Passed},{C2, Passed}
+BaseTargeting: {C1, Passed},{C2, Passed},{C3, Failed}
+BudgetCheck: {C1, Passed},{C2, Passed}
+BidCheck: {C2, Passed},{C1, Failed}
+Winner = C2
+
